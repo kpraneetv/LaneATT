@@ -21,3 +21,4 @@ Follow the commands on the Linux console:
    python main.py train --exp_name laneatt_r34_tusimple --cfg cfgs/laneatt_tusimple_resnet34.yml
    Once trained experiments/models will have pytorch trained models at every epoch.
 10) Follow the README.md for testing commands.
+Additionally, I have implemented mycodeimg.py and visualize_code.py for testing model custom images
